@@ -1,4 +1,4 @@
-![TON Stories](assets/ton-stories.webp)
+![An advertiser and creator agree on a brief, then prepare the Story and check its media and tracking links.](assets/ton-stories.webp)
 
 **Telegram Stories campaigns, from brief to publication.** We connect advertisers with creators and build open-source tools for preparing story media and tracking links.
 
